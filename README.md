@@ -22,3 +22,7 @@ A console-based Java application to manage student records using Core Java conce
 
 ## Author
 Samarthya Chaturvedi
+
+## Output Screenshot
+
+![Project Output](output.png)
